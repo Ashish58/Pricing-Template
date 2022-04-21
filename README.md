@@ -1,2 +1,2 @@
 #Pricing-Template
-It is an overview of dummy-ecommerce website using HTML &amp; CSS
+It is an overview of pricing template website using HTML &amp; CSS
